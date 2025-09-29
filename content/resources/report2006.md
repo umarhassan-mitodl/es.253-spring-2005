@@ -4,6 +4,8 @@ description: ''
 file: /courses/es-253-aids-and-poverty-in-africa-spring-2005/bfb21e72eb19902db9b1a4c05fee6127_report2006.pdf
 file_size: 164204
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
