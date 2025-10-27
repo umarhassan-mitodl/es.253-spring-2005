@@ -39,13 +39,13 @@ Distribution of syllabus, readings and give an overview of what is expected in t
 
 {{< tdclose >}}{{< tdopen >}}
 
-[HIV/AIDS Statistics](https://www.cdc.gov/nchs/fastats/aids-hiv.htm), January 16, 2005.
+{{% resource_link "0487bf18-56a7-41dc-abee-05a00ed4aba5" "HIV/AIDS Statistics" %}}, January 16, 2005.
 
-[Basic Statistics (CDC)](https://www.cdc.gov/nchs/index.htm), January 16, 2005.
+{{% resource_link "efc2336c-1118-47da-9fe5-b321e57d7e4c" "Basic Statistics (CDC)" %}}, January 16, 2005.
 
-[An AIDS History](http://www.avert.org/hiv-aids-history.htm), January 16, 2005
+{{% resource_link "21af2cd3-0ddb-4fde-bb7a-7dec302fcdb4" "An AIDS History" %}}, January 16, 2005
 
-[Science behind HIV/AIDS](http://www.aids.org/factSheets/400-HIV-Life-Cycle.html), January 16, 2005.
+{{% resource_link "21b90ff7-f841-4106-8efe-aaf26732ff50" "Science behind HIV/AIDS" %}}, January 16, 2005.
 
 Map of Africa
 
@@ -86,7 +86,7 @@ AIDS in:
 \- Botswana    
 \- Angola    
 \- South Africa    
-[Source](http://hivinsite.ucsf.edu/global?page=cr09-00-00), January 14, 2005
+{{% resource_link "6ba74326-0af1-41c7-b6d8-efbc73c41dd7" "Source" %}}, January 14, 2005
 
 UNAIDS Report (News Article)
 
@@ -154,7 +154,7 @@ Overview of the upcoming Country
 
 {{< tdclose >}}{{< tdopen >}}
 
-[HIV/AIDS and Poverty (PDF)](http://www.arabstates.undp.org/content/dam/aplaws/publication/en/publications/hiv-aids/poverty-and-hiv-aids-in-sub-saharan-africa/87.pdf)
+{{% resource_link "0d05c608-955e-4bb4-8f88-adcead46eba0" "HIV/AIDS and Poverty (PDF)" %}}
 
 Influence of AIDS on Poverty
 
@@ -190,7 +190,7 @@ What is the future of Zambia?
 
 {{< tdclose >}}{{< tdopen >}}
 
-[Zambia Country Profile](http://hivinsite.ucsf.edu/global?page=cr09-za-00&post=19&cid=ZA)
+{{% resource_link "c514385d-faed-4bb6-ab66-911c45eceba0" "Zambia Country Profile" %}}
 
 Zambia Poverty Profile
 
