@@ -2,8 +2,6 @@
 content_type: page
 description: This section gives information on format, overview, background and motivation,
   attendance policy, and grading criteria of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -18,7 +16,7 @@ Lectures: 1 session / week, 2 hours / session
 Format
 ------
 
-This course, as part of the [Experimental Study Group](http://esg.mit.edu/) Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor. Student Raja Bobbili (B.S. 07 Computer Science and Electrical Engineering, Economics) taught this seminar in cooperation with Dr. Lee Perlman, Lecturer in the Experimental Study Group. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
+This course, as part of the {{% resource_link "9caeb629-1439-4e3c-a249-5a3880693a9c" "Experimental Study Group" %}} Seminar Series, offers students the opportunity to participate in a small discussion-based class taught by an MIT upperclassman under the guidance of a faculty supervisor. Student Raja Bobbili (B.S. 07 Computer Science and Electrical Engineering, Economics) taught this seminar in cooperation with Dr. Lee Perlman, Lecturer in the Experimental Study Group. Seminars taught in this format are all graded Pass/Fail and receive 1/2 of the academic credit assigned to regular academic classes.
 
 Overview
 --------
